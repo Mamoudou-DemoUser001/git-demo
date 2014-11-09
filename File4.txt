@@ -1,3 +1,5 @@
 A fourth file to commit
 
 Merged message
+
+Added message here
