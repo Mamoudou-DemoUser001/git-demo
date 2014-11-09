@@ -2,3 +2,5 @@ Changes second file content
 
 Create a new line inside file
 
+This is a new committed line
+
