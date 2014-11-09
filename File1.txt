@@ -8,4 +8,4 @@ Stashed message into first file - To stash and commit
 
 One more thing
 
-This an amended message
+This an amended message - One more message to amend it
