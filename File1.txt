@@ -5,3 +5,5 @@ This is a first change into file
 New change into this file
 
 Stashed message into first file - To stash and commit
+
+One more thing
