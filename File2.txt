@@ -1,2 +1,4 @@
 Changes second file content
 
+Create a new line inside file
+
